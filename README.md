@@ -9,6 +9,7 @@ Kuluçka makinesı hayvan yumurtalarınından yeni yavru elde etmek için yapay 
   
   bulunmaktadır.
   
+  
 **Bu Proje Hakkında :**
   1. Devrenin isis çiziminin gerçekleştirilmesi 
   2. Kuluçka makinesi çalışma sistemi
@@ -18,15 +19,21 @@ Kuluçka makinesı hayvan yumurtalarınından yeni yavru elde etmek için yapay 
 
   yardımcı ve açıklayıcı menüler **[sunum dosyası](https://github.com/furkanayyildiz55/Kulucka_Projesi/blob/main/Kulucka_Projesi_Sunum.pdf)** bulunmaktadır. 
  
- **Bu Proje Hakkında Açıklayıcı Video için **[TIKLAYIN (YouTube)](https://github.com/furkanayyildiz55/Kulucka_Projesi/blob/main/Kulucka_Projesi_Sunum.pdf)** (YouTube)
+ 
+ **Bu Proje Hakkında Açıklayıcı Video için **[TIKLAYIN (YouTube)](https://www.youtube.com/watch?v=RRNeDRFx6cs)**
  
  ---
  
   
 **Devrenin Ares Çizimi**
 
-<img src="https://github.com/furkanayyildiz55/Kulucka_Projesi/blob/main/kulucka_ares.jpg" width="1000">
+<img src="https://github.com/furkanayyildiz55/Kulucka_Projesi/blob/main/kulucka_ares.jpg" width="700">
 
 **Devrenin Isis Çizimi**
 
-<img src="https://github.com/furkanayyildiz55/Kulucka_Projesi/blob/main/kulucka_isis.jpg" width="1000">
+<img src="https://github.com/furkanayyildiz55/Kulucka_Projesi/blob/main/kulucka_isis.jpg" width="700">
+
+**Devre İçin Kutu Çizimi**
+
+<img src="https://github.com/furkanayyildiz55/Kulucka_Projesi/blob/main/kulucka_kutu_cizimi.jpg" width="700">
+
