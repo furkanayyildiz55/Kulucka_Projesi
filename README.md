@@ -2,10 +2,10 @@
 
 Kuluçka makinesı hayvan yumurtalarınından yeni yavru elde etmek için yapay ortamda, yumurtların kuluçkaya yatırılması için kullanılır. 
 
-Bu projede :
-  1. Kuluçka makinesi isis ve ares devre kartı çizimi
-  2. Kuluçka makinesinin çalışması için hex dosyası ve kaynak kodu
-  3. Kuluçka makinesinin içine yerleştirileceği kutu çizimi (3 boyutlu yazıcı ile yazdırılabilir)
+**Bu projede :**
+  **1.** Kuluçka makinesi isis ve ares devre kartı çizimi
+  **2.** Kuluçka makinesinin çalışması için hex dosyası ve kaynak kodu
+  **3.** Kuluçka makinesinin içine yerleştirileceği kutu çizimi (3 boyutlu yazıcı ile yazdırılabilir)
   
   bulunmaktadır.
   
